@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Sena 👋
 
-<!--
-**rafasena-gh/rafasena-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, focado em **Python** e **PHP**, com interesse em APIs, ferramentas de linha de comando e boas práticas de engenharia de software.
 
-Here are some ideas to get you started:
+## Em que estou trabalhando
+- CLI em Python para organizar arquivos (portfólio)
+- Prática contínua de Git, testes e documentação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+`Python` · `PHP` · `Git` · `Linux`
+
+## Contato
+- GitHub: [@rafasena-gh](https://github.com/rafasena-gh)
+
+---
+*Aberto a oportunidades de aprendizado e colaboração.*
